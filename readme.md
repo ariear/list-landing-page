@@ -1,6 +1,6 @@
-## List Of Landing Page Projects I Created ✨🎉
+## List Of Landing Page Projects that I Created ✨🎉
 
-In here you can see all my landing page projects 💻, There are various themes that I have created.
+In here, you can see all my landing page projects 💻, There are various themes that I have created.
 
 - [Jhontraktor](https://jhontraktor.vercel.app/)
 - [Bubblebash](https://ariear.github.io/bubblebash/)
