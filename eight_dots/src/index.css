@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'Bai Jamjuree';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(fonts/BaiJamjuree/BaiJamjuree-Regular.ttf) format('ttf');
+    }
+    @font-face {
+      font-family: 'Neue Power';
+      font-style: normal;
+      font-weight: 700;
+      font-display: swap;
+      src: url(fonts/NeuePower/NeuePower-Ultra.woff2) format('woff2');
+    }
+}
