@@ -1,4 +1,4 @@
-## List Of Landing Page Projects that I Created ✨🎉
+## List of Landing Page Projects that I Created ✨🎉
 
 In here, you can see all my landing page projects 💻, There are various themes that I have created.
 
