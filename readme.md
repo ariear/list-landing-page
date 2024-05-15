@@ -17,5 +17,5 @@ In here, you can see all my landing page projects 💻, There are various themes
 - [GoBlog Dashboard](https://goblog-dashboard.netlify.app/)
 - [Gerai Web](https://geraiweb.netlify.app/)
 - [GreenJek](https://greenjek.netlify.app/)
-- [8 DOTS](https://rickroll.vercel.app/) - Soon
+- [8 DOTS](https://eight-dots.vercel.app/)
 
