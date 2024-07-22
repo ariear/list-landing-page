@@ -18,4 +18,5 @@ In here, you can see all my landing page projects 💻, There are various themes
 - [Gerai Web](https://geraiweb.netlify.app/)
 - [GreenJek](https://greenjek.netlify.app/)
 - [8 DOTS](https://eight-dots.vercel.app/)
+- [Epictetus](https://epictetus-psi.vercel.app/)
 
